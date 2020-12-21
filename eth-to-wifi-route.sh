@@ -18,7 +18,7 @@ dhcp_range_end="192.168.2.100"
 dhcp_time="12h"
 eth="eth0"
 wlan="wlan0"
-ssid="Raspberry-Hotspot"
+ssid="himbeerecloud"
 psk="raspberry"
 
 sudo killall wpa_supplicant &> /dev/null
